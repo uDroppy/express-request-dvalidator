@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/uDroppy/express-request-dvalidator.svg?branch=master)](https://travis-ci.com/uDroppy/express-request-dvalidator)
+
 ## Index
   1. [Intro](#express-request-dvalidator)
   2. [Installation](#Installation)
