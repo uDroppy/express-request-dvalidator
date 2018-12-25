@@ -1,5 +1,5 @@
 {
-  "name": "udroppy-dvalidator",
+  "name": "@udroppy/express-request-dvalidator",
   "version": "1.0.0",
   "description": "A decorator to validate express requests",
   "main": "index.js",
