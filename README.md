@@ -6,7 +6,7 @@
 
 # express-request-dvalidator
 
-At uDroppy we love to explore new tech, and of course one of the more hyped new feature of JS are [decorators](https://github.com/tc39/proposal-decorators).
+At uDroppy we love to explore new tech/features, and of course one of the more hyped new feature of JS are [decorators](https://github.com/tc39/proposal-decorators).
 
 To test decorators we have built a simple package `express-request-dvalidator` that can validate a `request` in express using a scheme writtein in plain js. Example:
 
